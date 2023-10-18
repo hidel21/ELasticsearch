@@ -1,0 +1,4 @@
+{ "index" : { "_index" : "usuarios", "_id" : "4" } }
+{ "nombre" : "Rick Sanchez" }
+{ "index" : { "_index" : "usuarios", "_id" : "5" } }
+{ "nombre" : "Morty Smith" }
